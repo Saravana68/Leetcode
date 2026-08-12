@@ -17,6 +17,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saravana68/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saravana68/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saravana68/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Saravana68/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saravana68/Leetcode/tree/master/0283-move-zeroes) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Saravana68/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -28,4 +29,9 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saravana68/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saravana68/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saravana68/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
